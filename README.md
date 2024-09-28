@@ -1,6 +1,6 @@
 # CSE12: Basic Data Structures and Object-Oriented Design (Spring 2021, UCSD)
 
-This repository contains coursework from **CSE12: Basic Data Structures and Object-Oriented Design**, which I took in Fall 2022 at UC San Diego. The course focused on fundamental data structures, algorithms, and object-oriented programming principles. Key topics include arrays, linked lists, stacks, queues, and algorithm efficiency.
+This repository contains coursework from **CSE12: Basic Data Structures and Object-Oriented Design**, which I took in Speing 2021 at UC San Diego. The course focused on fundamental data structures, algorithms, and object-oriented programming principles. Key topics include arrays, linked lists, stacks, queues, and algorithm efficiency.
 
 ## Contents:
 
